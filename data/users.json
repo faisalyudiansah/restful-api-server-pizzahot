@@ -1,0 +1,34 @@
+[
+    {
+        "username": "admin1",
+        "email": "admin1@gmail.com",
+        "password": "$2a$10$kP8P8LFRie2bAfAKtgnG5.xOfhbDvrG9RC3PS1l4ZHZH3g9W.m4xe",
+        "role": "Admin",
+        "phoneNumber": "083175216860",
+        "address": "882 Lotheville Street"
+    },
+    {
+        "username": "ronaldo",
+        "email": "ronaldo@gmail.com",
+        "password": "$2a$10$kP8P8LFRie2bAfAKtgnG5.xOfhbDvrG9RC3PS1l4ZHZH3g9W.m4xe",
+        "role": "Staff",
+        "phoneNumber": "1746053976",
+        "address": "65 Kensington Place"
+    },
+    {
+        "username": "faisal",
+        "email": "mfaisal@gmail.com",
+        "password": "$2a$10$kP8P8LFRie2bAfAKtgnG5.xOfhbDvrG9RC3PS1l4ZHZH3g9W.m4xe",
+        "role": "Staff",
+        "phoneNumber": "6671719721",
+        "address": "775 Bunker Hill Terrace"
+    },
+    {
+        "username": "admin2",
+        "email": "admin2@gmail.com",
+        "password": "$2a$10$kP8P8LFRie2bAfAKtgnG5.xOfhbDvrG9RC3PS1l4ZHZH3g9W.m4xe",
+        "role": "Admin",
+        "phoneNumber": "5549027168",
+        "address": "3 Mcguire Alley"
+    }
+]

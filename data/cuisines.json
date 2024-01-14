@@ -1,0 +1,162 @@
+[
+    {
+        "name": "Frankfurter Bbq",
+        "description": "Frankfurter Sapi, Daging Sapi Cincang, dan Keju Mozzarella",
+        "price": 42000,
+        "imgUrl": "https://www.pizzahut.co.id/assets/images/digital_menu/phr/menu/pizza/frankfurter-bbq.png",
+        "categoryId": 1,
+        "authorId": 2
+    },
+    {
+        "name": "Black Pepper Chicken",
+        "description": "Nasi, Ayam berbalut Tepung Roti, Saus Lada Hitam, Wijen, dan Sayuran",
+        "price": 31000,
+        "imgUrl": "https://www.pizzahut.co.id/assets/images/digital_menu/phr/menu/pasta-rice/black-pepper-chicken-rice.png",
+        "categoryId": 3,
+        "authorId": 1
+    },
+    {
+        "name": "Meat Lover",
+        "description": "Sosis Sapi, Daging Sapi Cincang, Burger Sapi, Sosis Ayam, dan Keju Mozzarella.",
+        "price": 48000,
+        "imgUrl": "https://www.pizzahut.co.id/assets/images/digital_menu/phr/menu/pizza/meat-lovers.png",
+        "categoryId": 1,
+        "authorId": 4
+    },
+    {
+        "name": "Salmon Aglio Olio",
+        "description": "Pasta Spaghetti, Cabai, Paprika Hijau, Bawang Putih dengan Salmon Panggang",
+        "price": 43000,
+        "imgUrl": "https://www.pizzahut.co.id/assets/images/digital_menu/phr/menu/pasta-rice/salmon-aglio-olio.png",
+        "categoryId": 2,
+        "authorId": 4
+    },
+    {
+        "name": "Beef Spaghetti",
+        "description": "Pasta Spaghetti, Daging Sapi Cincang, Saus Tomat, dan Keju.",
+        "price": 43000,
+        "imgUrl": "https://www.pizzahut.co.id/assets/images/digital_menu/phr/menu/pasta-rice/beef-spaghetti.png",
+        "categoryId": 2,
+        "authorId": 3
+    },
+    {
+        "name": "Cheese Overload",
+        "description": "Keju Mozzarella, String Chees, Cream Cheese Mayo, Keju Permesan, dan White Cheese",
+        "price": 49000,
+        "imgUrl": "https://www.pizzahut.co.id/assets/images/digital_menu/phr/menu/pizza/cheese-overload.png",
+        "categoryId": 1,
+        "authorId": 4
+    },
+    {
+        "name": "Green Chili Calamari",
+        "description": "Nasi Cabe Hijau dengan potongan tuna, cumi/udang renyah, dan sayuran",
+        "price": 32000,
+        "imgUrl": "https://www.pizzahut.co.id/assets/images/digital_menu/phr/menu/pasta-rice/Green-Chili-Calamari.png",
+        "categoryId": 3,
+        "authorId": 2
+    },
+    {
+        "name": "Mixberryi",
+        "description": "Soda Bluberi, Sirup Stroberi, Biji Selasih, dan Jelly",
+        "price": 27000,
+        "imgUrl": "https://www.pizzahut.co.id/assets/images/digital_menu/phr/menu/drinks/mixberry.png",
+        "categoryId": 4,
+        "authorId": 2
+    },
+    {
+        "name": "Oriental Chicken",
+        "description": "Nasi, Ayam Panggang, Saus Oriental, dan Sayuran",
+        "price": 22000,
+        "imgUrl": "https://www.pizzahut.co.id/assets/images/digital_menu/phr/menu/pasta-rice/oriental-chicken.png",
+        "categoryId": 3,
+        "authorId": 3
+    },
+    {
+        "name": "Cheeseburger",
+        "description": "Daging Sapi Cincang Berbumbu, Keju Cheddar, Onion, Tomat, Beef Bits, Saus Mustard, dan Keju Mozarella",
+        "price": 36000,
+        "imgUrl": "https://www.pizzahut.co.id/assets/images/digital_menu/phr/menu/pizza/cheeseburger.png",
+        "categoryId": 1,
+        "authorId": 4
+    },
+    {
+        "name": "Classic Salmon Mentaiko",
+        "description": "Pasta Spaghetti, Ikan Salmon Fillet, Saus Mayo Mentai, dan Nori.",
+        "price": 26000,
+        "imgUrl": "https://www.pizzahut.co.id/assets/images/digital_menu/phr/menu/pasta-rice/CLASSIC-SALMON-MENTAIKO.png",
+        "categoryId": 2,
+        "authorId": 1
+    },
+    {
+        "name": "Winter Punch",
+        "description": "Buah Leci, Nata De Coco, Biji Selasih, Sirup Leci, dan Lemon Tea",
+        "price": 26000,
+        "imgUrl": "https://www.pizzahut.co.id/assets/images/digital_menu/phr/menu/drinks/winter-punch.png",
+        "categoryId": 4,
+        "authorId": 3
+    },
+    {
+        "name": "American Favourite",
+        "description": "Pepperoni Sapi, Daging Sapi Cincang, Onion, Jamur, dan Keju Mozzarella",
+        "price": 56000,
+        "imgUrl": "https://www.pizzahut.co.id/assets/images/digital_menu/phr/menu/pizza/american-favourite.png",
+        "categoryId": 1,
+        "authorId": 3
+    },
+    {
+        "name": "Creamy Truffle",
+        "description": "Pasta Penne, Sosis Beef Chorizo,Bayam, Saus Alfredo, dan Truffle Oil",
+        "price": 26000,
+        "imgUrl": "https://www.pizzahut.co.id/assets/images/digital_menu/phr/menu/pasta-rice/CREAMY-TRUFFLE.png",
+        "categoryId": 2,
+        "authorId": 2
+    },
+    {
+        "name": "Tropical Punch",
+        "description": "Potongan Buah Peach, Nata de Coco, Semangka, Biji Selasih, Sirup Mangga, dan Lemon Tea.",
+        "price": 21000,
+        "imgUrl": "https://www.pizzahut.co.id/assets/images/digital_menu/phr/menu/drinks/tropical-punch.png",
+        "categoryId": 4,
+        "authorId": 1
+    },
+    {
+        "name": "Cheese Lovers",
+        "description": "Keju Mozzarella (String & Shredded) dan Keju Parmesan, Saus Original Signature dan saus Mayonnaise",
+        "price": 58000,
+        "imgUrl": "https://www.pizzahut.co.id/assets/images/digital_menu/phr/menu/pizza/cheese-lovers.png",
+        "categoryId": 1,
+        "authorId": 2
+    },
+    {
+        "name": "Meat Monsta",
+        "description": "Frankfurter Sapi, Daging Sapi Asap, Daging Sapi Cincang, Jamur, dan Keju Mozzarella",
+        "price": 51000,
+        "imgUrl": "https://www.pizzahut.co.id/assets/images/digital_menu/phr/menu/pizza/meat-monsta.png",
+        "categoryId": 1,
+        "authorId": 3
+    },
+    {
+        "name": "Veggie Garden",
+        "description": "Jagung, Jamur, Paprika Merah, Paprika Hijau, Nanas, dan Keju Mozzarella",
+        "price": 58000,
+        "imgUrl": "https://www.pizzahut.co.id/assets/images/digital_menu/phr/menu/pizza/veggie-garden.png",
+        "categoryId": 1,
+        "authorId": 1
+    },
+    {
+        "name": "Flaming Hot Chicken",
+        "description": "Pasta Fettuccine, Ayam, Sosis Ayam, Minyak Cabe, dan Daun Bawang",
+        "price": 55000,
+        "imgUrl": "https://www.pizzahut.co.id/assets/images/digital_menu/phr/menu/pasta-rice/flaming-hot.png",
+        "categoryId": 2,
+        "authorId": 1
+    },
+    {
+        "name": "Lychee Breeze",
+        "description": "Buah Leci, Sirup Leci, Soda, dan Jeruk Nipis",
+        "price": 20000,
+        "imgUrl": "https://www.pizzahut.co.id/assets/images/digital_menu/phr/menu/drinks/lychee-breeze.png",
+        "categoryId": 4,
+        "authorId": 4
+    }
+]
